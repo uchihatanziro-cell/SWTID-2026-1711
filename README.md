@@ -1,5 +1,24 @@
 # Auto Ticket Classification Using Flow Designer in ServiceNow
 
+---
+## 👥 Project Information
+
+**Project Title:** Auto Ticket Classification Using Flow Designer
+
+**Platform:** ServiceNow Developer Instance
+
+**Technology:** ServiceNow Flow Designer
+
+**Project Type:** Naan Mudhalvan Project
+
+**Team Members:**
+- Member 1: *Vishnupriya S*
+- Member 2: *Subashree K B*
+- Member 3: *Surendra Purohit A*
+- Member 4: *Sitharthan M*
+- Member 5: *Vikash B K*
+---
+
 ## 📌 Project Overview
 
 **Auto Ticket Classification Using Flow Designer** is a ServiceNow-based automation project developed using the **ServiceNow Developer Instance**.
@@ -346,26 +365,6 @@ The project can be extended with advanced ServiceNow capabilities such as:
 The project demonstrates how **ServiceNow Flow Designer** can be used to automate the classification and routing of IT support tickets.
 
 By implementing predefined classification logic, the system can reduce manual ticket handling and provide a structured process for routing incidents to the appropriate support teams.
-
----
-
-## 👥 Project Information
-
-**Project Title:** Auto Ticket Classification Using Flow Designer
-
-**Platform:** ServiceNow Developer Instance
-
-**Technology:** ServiceNow Flow Designer
-
-**Project Type:** Naan Mudhalvan Project
-
-**Team Members:**
-- Member 1: *Vishnupriya S*
-- Member 2: *Subashree K B*
-- Member 3: *Surendra Purohit A*
-- Member 4: *Sitharthan M*
-- Member 5: *Vikash B K*
----
 
 ## 📚 References
 
