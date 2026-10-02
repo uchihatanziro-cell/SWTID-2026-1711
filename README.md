@@ -355,17 +355,16 @@ By implementing predefined classification logic, the system can reduce manual ti
 
 **Platform:** ServiceNow Developer Instance
 
-**Domain:** IT Service Management (ITSM)
-
 **Technology:** ServiceNow Flow Designer
 
 **Project Type:** Naan Mudhalvan Project
 
 **Team Members:**
-- Member 1: *Your Name*
-- Member 2: *Team Member Name*
-- Member 3: *Team Member Name*
-
+- Member 1: *Vishnupriya S*
+- Member 2: *Subashree K B*
+- Member 3: *Surendra Purohit A*
+- Member 4: *Sitharthan M*
+- Member 5: *Vikash B K*
 ---
 
 ## 📚 References
